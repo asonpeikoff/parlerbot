@@ -6,7 +6,7 @@
   "author": "Hack-R and Libre Agora LLC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hack-r/parlerbot.git"
+    "url": "git+https://github.com/asonpeikoff/parlerbot.git"
   },
   "dependencies": {
     "@hack-r/ioh": "^0.0.4",
@@ -27,9 +27,9 @@
     "parlerbot": "bin/parlerbot"
   },
   "bugs": {
-    "url": "https://github.com/hack-r/parlerbot/issues"
+    "url": "https://github.com/asonpeikoff/parlerbot/issues"
   },
-  "homepage": "https://github.com/hack-r/parlerbot#readme",
+  "homepage": "https://github.com/asonpeikoff/parlerbot#readme",
   "main": "src/main.js",
   "directories": {
     "test": "test"
